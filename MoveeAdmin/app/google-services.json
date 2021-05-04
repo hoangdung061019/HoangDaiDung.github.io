@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583780993953",
+    "project_id": "moveeadmin",
+    "storage_bucket": "moveeadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583780993953:android:7e81bbb6288f7e60ab99e0",
+        "android_client_info": {
+          "package_name": "com.example.moveeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583780993953-g2u92a4s6do82j5u2pt7emrfmpfr6rnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj5WFgfU9OOkgHMiy4suewyN0PGblBtF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583780993953-g2u92a4s6do82j5u2pt7emrfmpfr6rnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_icon"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_bus"
+            android:icon="@drawable/gift_icon"
+            android:title="Donate" />
+
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/tinmoi_icon"
+            android:title="News" />
+
+
+
+<!--        <item-->
+<!--            android:id="@+id/nav_plane"-->
+<!--            android:icon="@drawable/icons8_airplane_take_off_500"-->
+<!--            android:title="Plane" />-->
+    </group>
+
+
+        <item android:title="Profile">
+            <menu>
+                <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_profile"
+                    android:icon="@drawable/profile_icon"
+                    android:title="Profile" />
+
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/logout_icon"
+                    android:title="Logout" />
+                </group>
+            </menu>
+        </item>
+
+
+<!--    <item android:title="Communicate">-->
+
+<!--        <menu>-->
+
+<!--            <item-->
+<!--                android:id="@+id/nav_share"-->
+<!--                android:icon="@drawable/share_icon"-->
+<!--                android:title="Share" />-->
+
+<!--            <item-->
+<!--                android:id="@+id/nav_rate"-->
+<!--                android:icon="@drawable/rate_icon"-->
+<!--                android:title="Rate Us" />-->
+<!--        </menu>-->
+<!--    </item>-->
+
+
+</menu>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
